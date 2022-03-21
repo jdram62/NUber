@@ -4,8 +4,6 @@ A RESTful webservice that allows users to interact with the app as Drivers or Ri
 
 Using Node.js for the runtime environment and MongoDB to store user information.
 
+##
 Google Distance Matrix API for determining distances. 
 https://developers.google.com/maps/documentation/distance-matrix/overview
-
-Postman is used for testing.
-https://www.postman.com/
